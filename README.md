@@ -5,7 +5,7 @@
 
 <!-- Header / Hero -->
 <p align="center">
-  <img src="https://github.com/dekwamerogers/dekwamerogers/blob/3888ed0f9b38620b333a5b163618cd8cc88e1b29/assets/profile_banner.png" alt="banner" width="100%" style="max-height:220px; object-fit:cover;" />
+  <img src="https://github.com/dekwamerogers/dekwamerogers/blob/0586cabf3bd73c952d6ba175f47886b50ae93a48/assets/profile_banner.png" alt="banner" width="100%" style="max-height:220px; object-fit:cover;" />
 </p>
 
 <p align="center">
