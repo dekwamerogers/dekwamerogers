@@ -8,8 +8,6 @@
   <img src="https://github.com/dekwamerogers/dekwamerogers/blob/3888ed0f9b38620b333a5b163618cd8cc88e1b29/assets/profile_banner.png" alt="banner" width="100%" style="max-height:220px; object-fit:cover;" />
 </p>
 
-<h1 align="center">Hi, I'm <strong>Dre</strong> 👋</h1>
-
 <p align="center">
   <em>Creative Technologist • Freelance Developer • ALX Backend & Frontend Engineering Learner • Graphic Designer</em><br/>
   Passionate about <strong>impactful problem-solving</strong>. I build people-first tech for Africa — focusing on <strong>education</strong>, <strong>transportation</strong>, <strong>real estate</strong>, and <strong>data/cloud infrastructure</strong>.
