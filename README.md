@@ -17,7 +17,7 @@
   <a href="mailto:dekwamerogers@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-dekwamerogers%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="email"/></a>
   <a href="https://www.linkedin.com/in/dekwamerogers" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
   <a href="https://twitter.com/dekwamerogers" title="Twitter/X"><img src="https://img.shields.io/badge/Twitter-@dekwamerogers-1DA1F2?style=for-the-badge&logo=twitter" alt="twitter"/></a>
-  <a href="https:/dekwamerogers.github.io/dekwamerogers" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge" alt="portfolio"/></a>
+  <a href="https:/dekwamerogers.github.io/portfolio" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge" alt="portfolio"/></a>
 </p>
 
 ---
